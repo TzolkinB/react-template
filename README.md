@@ -10,6 +10,10 @@ Clone and rename the react-template repo:
 Set up remote as usual:
 
     git remote add origin git@github.com:TzolkinB/(new_repo_name).git
+    // check that remote url is correct
+    git remote --verbose
+    // if it is not correct
+    git remote set-url origin (correct repo url)
     git push -u origin master
 
 Then install all of the npm dependencies:
