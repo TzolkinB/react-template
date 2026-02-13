@@ -1,3 +1,11 @@
+## Historical Note (2026)
+This was my first React boilerplate from 2019-2020. I'm archiving it as the 
+ecosystem has moved to Vite/Next.js. Keeping it for historical reference.
+
+For modern React scaffolding, I now recommend:
+- Vite: `npm create vite@latest`
+- Next.js: `npx create-next-app@latest`
+
 # react-template
 React template to quickly scaffold new apps.
 
